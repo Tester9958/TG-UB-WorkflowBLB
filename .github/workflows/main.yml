@@ -62,7 +62,7 @@ jobs:
 
          run: |
 
-           sudo sh ultroid.sh
+           sudo sh Black-Lighting.sh
 
        - name: Loop workflow
 
