@@ -62,7 +62,7 @@ jobs:
 
          run: |
 
-           sudo sh Black-Lighting.sh
+           sudo sh blacklighting.sh
 
        - name: Loop workflow
 
